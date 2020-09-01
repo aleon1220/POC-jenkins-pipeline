@@ -45,7 +45,7 @@ pipeline {
 
       }
       steps {
-        echo 'Deploy to Prod'
+        echo 'Deploy to Production'
       }
     }
 
